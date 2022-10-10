@@ -1,0 +1,9 @@
+.item{
+    max-height: 310px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    
+}
+div{
+    word-wrap: break-word;
+}
